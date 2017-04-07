@@ -1,0 +1,33 @@
+*{margin:0;
+padding: 0;}
+.ig{position: absolute;}
+.btn{position: absolute;
+height: 90px;
+width: 60px;
+background: rgba(0,0,0,0.5);
+color: #fff;
+text-align: center;
+line-height: 90px;
+font-size: 40px;
+top:155px; 
+cursor: pointer;
+/*display: none;*/
+}
+.btn2{left:1860px;}
+ul{
+	list-style-type: none;
+}
+#tabs{position: absolute;
+top:360px;
+left: 800px;}
+.tab{width: 30px;
+height: 30px;
+background-color: #5388e8;
+float: left;
+line-height: 30px;
+text-align: center;
+color: #fff;
+margin-right: 10px;
+border-radius: 100%;
+cursor: pointer;}
+.bg{background-color: #ff0000;}
